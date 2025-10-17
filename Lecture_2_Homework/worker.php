@@ -29,12 +29,12 @@ $sapensio = $_POST['sapensio'];
     <?php echo"
     <table>
 <tr>
-    <td>სახელი</td>
-    <td>გვარი</td>
-    <td>ანგარიშის ნომერი</td>
-    <td>თანხა</td>
-    <td>საშემოსავლო</td>
-    <td>საპენსიო</td>
+    <td><b>სახელი</b></td>
+    <td><b>გვარი</b></td>
+    <td><b>ანგარიშის ნომერი</b></td>
+    <td><b>თანხა</b></td>
+    <td><b>საშემოსავლო</b></td>
+    <td><b>საპენსიო</b></td>
 </tr>
 <tr>
     <td>$name</td>
